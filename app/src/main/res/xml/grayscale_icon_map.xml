@@ -593,4 +593,12 @@
     <icon drawable="@drawable/viber" package="com.viber.voip" name="Viber" />
     <icon drawable="@drawable/ytstudio" package="com.google.android.apps.youtube.creator" name="YouTube Studio" />
     <icon drawable="@drawable/zarchiver" package="ru.zdevs.zarchiver" name="ZArchiver" />
+    <icon drawable="@drawable/bilibili" package="tv.danmaku.bili" />
+    <icon drawable="@drawable/alipay" package="com.eg.android.AlipayGphone" />
+    <icon drawable="@drawable/jingdong" package="com.jingdong.app.mall" />
+    <icon drawable="@drawable/coolapk" package="com.coolapk.market" />
+    <icon drawable="@drawable/zhihu" package="com.zhihu.android" />
+    <icon drawable="@drawable/bilibili_comic" package="com.bilibili.comic" />
+    <icon drawable="@drawable/island" package="com.oasisfeng.island" />
+    <icon drawable="@drawable/geometricweather" package="wangdaye.com.geometricweather" />
 </icons>
